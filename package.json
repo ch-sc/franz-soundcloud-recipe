@@ -1,8 +1,8 @@
 {
-  "id": "soundcloud",
-  "name": "Soundcloud",
-  "version": "0.0.1",
-  "description": "Tweetdeck",
+  "id": "franz-soundcloud-recipe",
+  "name": "SoundCloud",
+  "version": "1.0.0",
+  "description": "SoundCloud is a European online audio distribution platform and music sharing website based in Berlin, Germany that enables its users to upload, promote, and share audio.",
   "main": "index.js",
   "author": "Christoph Schulze <chr.schulze.3@gmail.com>",
   "license": "MIT",
